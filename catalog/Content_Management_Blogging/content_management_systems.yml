@@ -1,5 +1,5 @@
 name: Content Management
-description:
+description: A category listing gems for Content Management in Rails.
 projects:
   - alchemy_cms
   - binda
